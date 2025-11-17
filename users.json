@@ -1,0 +1,18 @@
+{
+    "6001028286": {
+        "first_seen": "2025-11-17 19:06:15",
+        "is_owner": true,
+        "last_active": "2025-11-17 19:12:23",
+        "last_reset": 1763417175.7826898,
+        "spam_attempts": 3,
+        "username": "unknown"
+    },
+    "8211257561": {
+        "first_seen": "2025-11-11 12:18:16",
+        "is_owner": true,
+        "last_active": "2025-11-11 17:43:58",
+        "last_reset": 1763416020.103231,
+        "spam_attempts": 3,
+        "username": "unknown"
+    }
+}
