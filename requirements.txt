@@ -1,5 +1,4 @@
 requests
-Flask
 psutil
 PyJWT
 protobuf-decoder
